@@ -1,0 +1,14 @@
+body{
+    background-color: #19ff5e;
+    display: inline-block;
+}
+img{
+    width: 400px;
+    border: 5px solid #ff00ff;
+    margin-right: 15px;
+}
+div{
+    display: flex;
+    margin-left: 5px; 
+    margin-top: 0;
+}
